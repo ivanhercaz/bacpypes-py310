@@ -39,9 +39,7 @@ requirements = [
     # no external requirements
 ]
 
-setup_requirements = [
-    'pytest-runner',
-    ]
+setup_requirements = []
 
 test_requirements = [
     'pytest',
